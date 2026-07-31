@@ -356,7 +356,7 @@ function ContactCTASection() {
                 </button>
               </Link>
               <a
-                href="https://github.com"
+                href="https://github.com/khandaniyal14-lab"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-white/10 text-white font-display font-medium text-sm transition-all duration-300 hover:border-gold/30 hover:text-gold"
